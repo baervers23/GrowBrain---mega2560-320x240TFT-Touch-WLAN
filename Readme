@@ -1,0 +1,44 @@
+Whats GrowBrain?
+GrowBrain is my little digital gardening assistant and management system. Based on Arduino. Codet at Java with many big range
+Settings. This brain helps you for smoother gardening. Look at the daa logs on SD Card and display Excel graphics for finer
+tuning adjustment. Yeah actually semi-automatic, but also later full-automatic grow system. User friendly, partly safe smart connect, big Touch Screen, many settings for your personalized controlled greenroom.
+
+Hydroponic, aeroponic system friendly
+
+Features:
+Lights On at XX:XX o'Clock (minutely)
+Choose a "cycle" (12h,16h,24h)
+Calculate Off Time
+
+Fan 4 active coal filter
+Level 1 until humidty limit or air temperature limit is reached then Switch 2/3
+
+Airflow controll Wind
+Choose ontime, offtime, later random possible, switch level for day, switch lvl for night
+
+W-Lan for OnFly Updates, clock management, maybe display on phone/pc later (only LAN)
+
+Air temperature/humidty sensors (actually 1, planned 2 and calculate the golden mid for more prezision)
+Earth wetness sensor (planned)
+
+Profiles, save ur settings and load saved growprogramms (actually 1)
+
+3.2" TFT Touch Screen with SD Card logging. Little brilliant GUI programmed Overlay with active Warnings -Still not finish yet.
+8x SolidState-Relais (trigger buttons on zero peak AC) 
+ 
+ 
+ Parts:
+ Wemos Mega 2560 https://de.aliexpress.com/item/32817913506.html
+ 3.2" TFT TouchScreen + SDCard https://de.aliexpress.com/item/32808968215.html
+ TFT Shield Mega 2560 https://de.aliexpress.com/item/1766439282.htm
+ 40 Pin Extender (Shield friendly) https://de.aliexpress.com/item/4000033331165.html
+ DHT22 temp/hum sensor https://de.aliexpress.com/item/32759158558.html
+ SolidState Relais for AC https://de.aliexpress.com/item/32906080992.html
+ 
+ Optional:
+ earth wetness sensor https://de.aliexpress.com/item/32588917422.html (i heard for problems on earth usage)
+ Awesome Prototype Shield for Mega https://de.aliexpress.com/item/32822652489.html
+ Long female connecters for Shieldupgrade https://de.aliexpress.com/item/4000111339239.html
+ 
+ My old system was a 1602 LCD Display with a dropdown menu. I quit that first Try for upgrade from Uno to Mega (Space, Display)
+ More coming soon! Im actually working on the GUI, the Code, building second Prototype station.
